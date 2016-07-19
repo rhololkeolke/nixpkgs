@@ -7154,6 +7154,8 @@ in
 
   flann = callPackage ../development/libraries/flann { };
 
+  flatbuffers = callPackage ../development/libraries/flatbuffers { };
+
   flite = callPackage ../development/libraries/flite { };
 
   fltk13 = callPackage ../development/libraries/fltk { };
